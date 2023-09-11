@@ -6,7 +6,6 @@ docx==0.2.4
 FastNLP==1.0.1
 fastNLP==1.0.1
 filelock==3.12.2
-h5py==3.9.0
 huggingface_hub==0.14.1
 importlib_metadata==6.7.0
 matplotlib==3.5.3
